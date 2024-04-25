@@ -1,4 +1,5 @@
 var userName = ["Shahnawaz", "Sohail", "Shuaib", "Muneer", "Zeeshan"];
+userName = [];
 if (userName.length === 0) {
     console.log("your array in empty we need to fing some users!");
 }

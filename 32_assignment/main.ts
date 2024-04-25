@@ -1,16 +1,22 @@
-// Array of corrsent users
-let current_users = ["Shahnawaz", "Shuaib", "Sohail", "Muneer", "Zeeshan"];
+// Array of Currrent Users
+let current_users = ["Shahnawaz", "Sohail", "Shahzman", "Aftab", "Majeed"]
 
-// Array of new users
-let new_users = ["Hamza", "Zain", "Ali", "Aftab", "Majeed"];
+// Array of New Users
+let new_users = ["Ata", "Muneer", "Sohail", "ALi", "Shahzman"]
 
-// Loops throgh new to  check for osernames abaibility
+// Loop through new_users to check for usernames abaibility
+new_users.forEach(new_one_user => {
 
-new_users.forEach(new_user => {
-let our_conditional = current_users.some(curent_one_user =>  curent_one_user.toLowerCase()== new_user.toLowerCase())
-if(our_conditional){
-    console.log(`Sorry ${new_one_user} is already taken`)
+    // Making a Condtion fro username alrady exist and save in our_condition  variable
+    let our_condition = current_users.some(current_one_user => current_one_user.toLowerCase() === new_one_user.toLowerCase())
 
-}else{
-    console.log(`This username ${new_one_user} is abilable`)
-}
+    // Print Diffine message usign if_Else statements
+    if(our_condition){
+  console.log(`Sorry ${new_one_user} is already taken`)
+    }else{
+        console.log(`This Username ${new_one_user} is availabye`)
+    }
+
+})
+
+

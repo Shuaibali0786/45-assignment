@@ -7,3 +7,4 @@ if (alienColor === "Black") {
 if (alienColor === "Whit") {
     console.log("Aien color is white");
 }
+console.log(alienColor);

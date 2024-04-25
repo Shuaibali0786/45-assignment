@@ -1,6 +1,7 @@
 "use strict";
 // Creating a Array
 let favorite_fruits = ["Mango", "Strawberry", "Apple"];
+// Using 5 Independent if statabel
 if (favorite_fruits.includes("Mango")) {
     console.log("I Realy Liek  Mangos");
 }
