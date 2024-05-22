@@ -1,3 +1,52 @@
-let guestlist = ["Shuaib", "sohail", "Muneer"];
+// let guestlist = ["Shuaib", "sohail", "Muneer"];
 
-guestlist.forEach(oneGuest => console.log(`Salam ${oneGuest}, would youu liek to dinner wiht  me?me`));
+// guestlist.forEach(oneGuest => console.log(`Salam ${oneGuest}, would youu liek to dinner wiht  me?me`));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let friendName = ["Shahnawaz", "Muneer", "Sohail", "Zeeshan"];
+friendName.forEach(nise => console.log(`Hello ${nise} how are you`));

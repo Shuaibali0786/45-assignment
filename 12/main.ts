@@ -2,3 +2,63 @@ let friendsName = ["Shahnawaz", "Sohail", "Shuaib", "Muneer"];
 friendsName.forEach(friendName => console.log(`Hello ${friendName}, How are you?`));
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let absName = ["a", "b", "c", "d"];
+
+// absName.forEach(message => console.log(`Hello ${message} how are you`))
+
+
+
+
+
+
+

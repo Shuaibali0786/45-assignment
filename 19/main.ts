@@ -1,8 +1,9 @@
-let guesList = ["Shahnawaz", "Sohail", "Shuaib", "Muneer", "Zeeshan"];
+// let guesList = ["Shahnawaz", "Sohail", "Shuaib", "Muneer", "Zeeshan"];
 
-let lengthGuests: number = guesList.length;
+// let lengthGuests: number = guesList.length;
 
-console.log(`We are Inviting total ${lengthGuests}, guests.`);
+// console.log(`We are Inviting total ${lengthGuests}, guests.`);
+
 
 
 

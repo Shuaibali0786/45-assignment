@@ -13,7 +13,7 @@ var countriesToVisit = ["China", "Demark",
 console.log("Orginal Order:", countriesToVisit);
 // Print the Array in Alphabetical Order without modifying the Actual Array List 
 console.log("Alphabetical Order:", __spreadArray([], countriesToVisit, true).sort());
-// Show that the jarray is still in its orginal order
+// Show that the array is still in its orginal order
 console.log("Still in Orgin Order:", countriesToVisit);
 // print the array in reversed order without modifying the  actual array list 
 console.log("Reverse Order:", __spreadArray([], countriesToVisit, true).reverse());

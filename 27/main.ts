@@ -2,6 +2,7 @@
 let alienColor = "green";
 
 // Using if and Else-if statements
+
 if(alienColor  === "green"){
     console.log("(version1)you shot down green alien you have earned 5 points");
 }

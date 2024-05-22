@@ -7,6 +7,6 @@ function make_shirt(size, printMessage) {
 // Calling a function
 make_shirt();
 // Calling a function now with medium size and default message
-make_shirt("Meium");
+make_shirt("Medum");
 // Calling a function now with small size and also different print message 
 make_shirt("Small", "I Love JavaScript");

@@ -1,6 +1,6 @@
 // Difine Variable
 var alienColor = "White";
-if (alienColor === "Black") {
+if (alienColor === "whit") {
     // Code
     console.log("Aline color is black player just earned 5 points.");
 }
